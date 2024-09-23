@@ -1,0 +1,6 @@
+print("Lista de Compras")
+print()
+print("Verduras\tLacteos\tCarne")
+print("Tomate\t\tQueso\tMilanesa")
+print("Espinaca\tLeche\tAsado")
+print("Limon\t\t\t\tRoast Beef")
